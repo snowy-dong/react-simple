@@ -1,0 +1,28 @@
+/* Stiziles */
+
+html, body {
+  /*background: #222222;*/
+  /*width: 80%;*/
+  width: 100%;
+  height: 100%;
+  margin:0 auto;
+  overflow: hidden;
+}
+
+
+
+
+.jumbotron{
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+/* transitions */
+.transition-wrapper{
+  position: relative;
+} 
+ .lorem {
+      position: absolute;
+      width: 90%;
+      left: 5%;
+    }
