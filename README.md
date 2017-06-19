@@ -8,6 +8,6 @@ To build the examples locally, run:
 
 1:npm install
 
-2:npm run start  or  grunt serve（if you already installed grunt ）
+2:npm run dev （运行开发环境 ） || npm start （生产项目）
 
 3:Then open http://localhost:8080 in a browser.
