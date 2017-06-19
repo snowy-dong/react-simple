@@ -9,12 +9,7 @@ import { Navbar, Nav, NavItem, NavDropdown, FormGroup, FormControl, MenuItem, Bu
 // CSS
 require('normalize.css');
 require('../styles/main.css');
-
-
-
-
-
-
+require('../styles/bootstrap/dist/css/bootstrap.css');
 const App = React.createClass({
 render() {
     return (
